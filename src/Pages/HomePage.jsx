@@ -20,7 +20,7 @@ const HomePage = () => {
           component="img"
         alt='Error'
         image={img}
-        sx={{height:'450px',width:'300px',marginTop:'5'}}
+        sx={{height:'290px',width:'300px',marginTop:'5'}}
         />
         </Card>
           
