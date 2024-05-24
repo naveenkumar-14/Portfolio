@@ -15,7 +15,7 @@ const NavBar = () => {
         <ListItem> Testomonials</ListItem>
         <ListItem> Contact</ListItem>
       </Stack>
-      <Button variant="contained" color="success" >Download CV</Button>
+      <Button variant="contained" color="success" >Download_CV</Button>
     </Container>
     </div>
   )
